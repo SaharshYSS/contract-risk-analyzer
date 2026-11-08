@@ -1,0 +1,30 @@
+# Owner: Varun
+# Starts MySQL 8 and PostgreSQL 16 with the pgvector extension:
+#   docker compose up -d            (both)
+#   docker compose up -d pgvector   (only PostgreSQL, if MySQL is already installed locally)
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: contract-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD:-change_me}
+    command: ["--log-bin-trust-function-creators=1"]
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  pgvector:
+    image: pgvector/pgvector:pg16
+    container_name: contract-pgvector
+    environment:
+      POSTGRES_PASSWORD: ${PG_PASSWORD:-change_me}
+      POSTGRES_DB: contract_vectors
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+
+volumes:
+  mysql_data:
+  pg_data:
