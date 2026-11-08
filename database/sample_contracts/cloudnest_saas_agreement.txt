@@ -1,0 +1,25 @@
+CLOUDNEST SOFTWARE-AS-A-SERVICE SUBSCRIPTION AGREEMENT
+
+This Subscription Agreement is made between CloudNest Technologies Pvt. Ltd. ("Provider") and the subscribing organisation ("Customer").
+
+1. Services. Provider will make the CloudNest document management platform available to Customer's authorised users over the internet, together with standard email support during business hours (9:00 to 18:00 IST, Monday to Friday).
+
+2. Term and Renewal. The initial term is twelve (12) months from the effective date. This Agreement shall renew automatically for successive twelve month periods unless Customer gives written notice of non-renewal at least ninety (90) days before the end of the then-current term.
+
+3. Fees. Customer shall pay the annual subscription fee in advance. Provider reserves the right to increase the fees at any time by notifying Customer by email, and the increased fees apply from the next invoice. All fees are non-refundable.
+
+4. Late Payment. Any amount not paid when due shall bear interest at three percent (3%) per month until paid in full, and Provider may charge a late fee of INR 5,000 per invoice.
+
+5. Customer Data. Customer grants Provider a worldwide, royalty-free right to use, copy and analyse all data uploaded to the platform for any purpose, including improving Provider's products and sharing aggregated insights with partners.
+
+6. Suspension. Provider may suspend Customer's access immediately and without warning if Provider believes, in its sole discretion, that Customer's use poses a risk to the platform.
+
+7. Warranty Disclaimer. The platform is provided "as is" and Provider disclaims all warranties, express or implied, including fitness for a particular purpose and uninterrupted availability.
+
+8. Limitation of Liability. In no event shall Provider be liable for any indirect, incidental or consequential damages, loss of data or loss of profits, even if caused by Provider's negligence. Customer's liability to Provider under this Agreement shall not be limited in any way.
+
+9. Changes to Terms. Provider may modify these terms at any time by posting the revised terms on its website. Customer's continued use of the platform after posting constitutes acceptance of the revised terms.
+
+10. Assignment. Provider may assign this Agreement to any affiliate or successor without Customer's consent. Customer may not assign this Agreement without Provider's prior written consent.
+
+11. Governing Law and Disputes. This Agreement is governed by the laws of the State of Delaware, USA. Customer waives any right to a jury trial and agrees not to participate in any class action against Provider.

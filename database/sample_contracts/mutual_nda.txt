@@ -1,0 +1,21 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement is entered into between Orbit Analytics Pvt. Ltd. and Kestrel Foods Ltd. (each a "Party").
+
+1. Purpose. The Parties wish to share information to evaluate a possible data analytics partnership (the "Purpose").
+
+2. Confidential Information. Confidential Information means any non-public business, technical or financial information disclosed by one Party to the other, whether orally or in writing, that is marked confidential or would reasonably be understood to be confidential.
+
+3. Obligations. Each Party shall use the other Party's Confidential Information only for the Purpose, protect it with at least reasonable care, and disclose it only to employees and advisers who need to know it and are bound by similar duties.
+
+4. Exclusions. These obligations do not apply to information that is public through no fault of the receiving Party, was already known to it, is independently developed, or must be disclosed by law after giving the other Party prompt notice.
+
+5. Term. This Agreement lasts two (2) years from the effective date. The confidentiality obligations survive for three (3) years after expiry, except for trade secrets, which remain protected while they qualify as trade secrets.
+
+6. Return of Information. On request, each Party shall promptly return or destroy the other Party's Confidential Information and confirm this in writing.
+
+7. Liability. Each Party's total liability under this Agreement is capped at INR 25,00,000, except for wilful disclosure or fraud.
+
+8. Termination. Either Party may terminate this Agreement by giving thirty (30) days written notice to the other Party.
+
+9. Governing Law. This Agreement is governed by the laws of India. Disputes shall first be referred to mediation in Mumbai and, failing settlement within 60 days, to the courts at Mumbai.
