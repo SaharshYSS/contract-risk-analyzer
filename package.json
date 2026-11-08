@@ -1,0 +1,41 @@
+{
+  "name": "contract-risk-analyzer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "db:setup": "node scripts/run-sql.mjs",
+    "db:queries": "node scripts/run-sql.mjs database/07_queries.sql",
+    "vector:setup": "node scripts/run-sql.mjs --pg database/pgvector/01_vector_schema.sql",
+    "vector:seed": "tsx vector/seed_risk_patterns.ts",
+    "setup": "npm run db:setup && npm run vector:setup && npm run vector:seed",
+    "vector:tune": "tsx vector/tune_threshold.ts"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.7.2",
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^17.2.1",
+    "jose": "^6.0.12",
+    "mysql2": "^3.14.3",
+    "next": "^15.5.29",
+    "pg": "^8.16.3",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/pg": "^8.15.5",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^15.5.29",
+    "tailwindcss": "^4",
+    "tsx": "^4.20.3",
+    "typescript": "^5"
+  }
+}
